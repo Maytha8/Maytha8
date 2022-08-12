@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maytha8</h1>
 <h3 align="center">A self-taught full-stack web and software developer.</h3>
 
-- 🔭 I’m currently working on [Maytha8/CompassEdu](https://github.com/Maytha8/CompassEdu)
-
-- 🌱 I’m currently learning **NodeJS**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Maytha8](https://github.com/Maytha8)
 
 - 📝 I sometimes write articles on [https://dev.to/maytha8](https://dev.to/maytha8)
-
-- 💬 Ask me about **PHP, NodeJS, and Express**
 
 - ⚡ Fun fact **I can learn things very quickly**
 
@@ -24,8 +18,12 @@
 ### Languages & Software
 - Visual Studio Code
 - PHP
+- TypeScript
 - NodeJS
-- Express and EJS
+- Express
+- EJS / Handlebars
+- Python
+- Flask and Jinja
 - git & GitHub
 - HTML5, CSS3, JavaScript (Front-end)
 
