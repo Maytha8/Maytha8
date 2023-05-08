@@ -5,7 +5,7 @@
 
 - 📝 I sometimes write articles on [https://dev.to/maytha8](https://dev.to/maytha8)
 
-- ⚡ Fun fact **I can learn things very quickly**
+- ⚡ Fun fact: **I can learn things very quickly**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -16,8 +16,7 @@
 - [StackOverflow](https://stackoverflow.com/users/9416618)
 - [Dev.to](https://dev.to/maytha8)
 
-### Languages & Software
-- C++
+### Languages & Software I have used / am using
 - NestJS
 - Visual Studio Code
 - PHP
