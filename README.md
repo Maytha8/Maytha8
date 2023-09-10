@@ -16,8 +16,13 @@
 - [Dev.to](https://dev.to/maytha8)
 
 ### Languages & Software I have used / am using
+- Svelte
+- Vue
+- Nuxt
+- Rust
+- (trying to use) C++ (with great difficulty)
 - NestJS
-- Visual Studio Code
+- ~~Visual Studio Code~~ Vim & Neovim (better)
 - PHP
 - TypeScript
 - NodeJS
