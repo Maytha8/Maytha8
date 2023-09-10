@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maytha8</h1>
-<h3 align="center">A self-taught full-stack web and software developer.</h3>
+<h3 align="center">A full-stack web and software developer.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Maytha8](https://github.com/Maytha8)
 
