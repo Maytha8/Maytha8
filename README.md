@@ -12,7 +12,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
-- Discord: BetaM\#7011
 - [StackOverflow](https://stackoverflow.com/users/9416618)
 - [Dev.to](https://dev.to/maytha8)
 
