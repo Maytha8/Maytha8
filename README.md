@@ -7,4 +7,4 @@
 
 <p align="center">I've given up GitHub.  (<a href="https://GiveUpGitHub.org">See Software Freedom Conservancy's <strong>Give Up  GitHub</strong> site for details</a>.)</p>
 
-<p align="center">All my projects have now been moved to Gitlab. :smiley:</p>
+<p align="center">All my projects have now been moved to Codeberg and/or Gitlab. :smiley:</p>
