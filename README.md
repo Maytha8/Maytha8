@@ -1,39 +1,10 @@
 <h1 align="center">Hi 👋, I'm Maytha8</h1>
 <h3 align="center">A full-stack web and software developer.</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Maytha8](https://github.com/Maytha8)
+<h4 align="center">All of my projects are available at <a href="https://gitlab.com/Maytha8">https://gitlab.com/Maytha8</a></h4>
 
-- 📝 I sometimes write articles on [https://dev.to/maytha8](https://dev.to/maytha8)
+<h2 align="center">Give Up GitHub</h2>
 
-- ⚡ Fun fact: **I can learn things very quickly**
+<p align="center">I've given up GitHub.  (<a href="https://GiveUpGitHub.org">See Software Freedom Conservancy's *Give Up  GitHub* site for details</a>.)</p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-### Connect with me
-- [StackOverflow](https://stackoverflow.com/users/9416618)
-- [Dev.to](https://dev.to/maytha8)
-
-### Languages & Software I have used / am using
-- Svelte
-- Vue
-- Nuxt
-- Rust
-- (trying to use) C++ (with great difficulty)
-- NestJS
-- ~~Visual Studio Code~~ Vim & Neovim (better)
-- PHP
-- TypeScript
-- NodeJS
-- Express
-- EJS / Handlebars
-- Python
-- Flask and Jinja
-- git & GitHub
-- HTML5, CSS3, JavaScript (Front-end)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maytha8&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="maytha8" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maytha8&show_icons=true&locale=en&theme=dark&hide_border=true" alt="maytha8" /></p>
-
+<p align="center">All my projects have now been moved to Gitlab. :smiley:</p>
